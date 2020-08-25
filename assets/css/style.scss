@@ -3,5 +3,5 @@
 
 @import "";
 .project neumorphism-card aos-init aos-animate {
--webkit-backdrop-filter: blur(5px);
+filter: blur(5px);
 }
